@@ -1,2 +1,2 @@
 # discord-bots-for-fun
-made a few discord bots, bajangle as a simple joke bot that can send simple msgs, smug as a utility bot that can play youtube music with link inputs
+Made a few discord bots, bajangle as a simple joke bot that can send simple msgs, smug as a utility bot that can play youtube music with link inputs
