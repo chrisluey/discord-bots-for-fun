@@ -3,3 +3,5 @@ Made a few discord bots, bajangle as a simple joke bot among friends that can se
 
 The setup guide for actually getting your discord bot to a server was found here: https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
 
+The ffmpeg files are for the package to play the music in a voice channel.
+
