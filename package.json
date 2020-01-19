@@ -1,0 +1,13 @@
+{
+    "name": "Smug Waifu Bot",
+    "version": "1.0.0",
+    "description": "test bot cuz I suck at coding after 3 yrs of comp sci",
+    "main": "bot.js",
+    "author": "HachimanWannabe",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.4.2",
+        "node-opus": "^0.3.1",
+        "winston": "^3.1.0"
+    }
+}
